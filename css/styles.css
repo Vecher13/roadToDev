@@ -1,0 +1,21 @@
+body {
+  background-color: #292B33;
+  color: #ffffff;
+}
+
+h1{
+  color: #A3459E;
+}
+
+h2 {
+  color: #80BA6D;
+}
+
+.title{
+  color: #A3459E;
+  font-size: 80px;
+}
+
+#logo{
+  border-radius: 100%
+}
