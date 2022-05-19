@@ -38,7 +38,7 @@ h2 {
 
 .bottomCont{
   width: 100%;
-position: absolute;
-bottom: 0;
-
+  position: absolute;
+  bottom: 0;
+  color: #A3459E;
 }
