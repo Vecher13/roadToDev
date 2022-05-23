@@ -18,7 +18,11 @@ h2 {
 }
 
 #logo{
-  border-radius: 100%
+  border-radius: 20px;
+}
+
+img {
+  border-radius: 15px;
 }
 
 .header{
@@ -31,14 +35,19 @@ h2 {
 }
 
 .viewCont{
+  background-color: #3F4148;
   padding: 13px;
   width: 75%;
-  margin: 0 auto 0 auto;
+  margin: 50px auto 50px auto;
+  border-radius: 13px;
+  box-shadow: 0px 0px 7px 5px #5D606A;
+
 }
 
 .bottomCont{
   width: 100%;
-position: absolute;
-bottom: 0;
-
+  height: 50px;
+  position: absolute;
+  bottom: 0;
+  color: #A3459E;
 }
