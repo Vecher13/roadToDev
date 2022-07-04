@@ -3,11 +3,11 @@ body {
   color: #ffffff;
   margin: 0;
 }
-
+/*
 h1{
   color: #A3459E;
 }
-
+*/
 h2 {
   color: #80BA6D;
 }
@@ -50,4 +50,8 @@ img {
   position: absolute;
   bottom: 0;
   color: #A3459E;
+}
+
+.bg-black {
+  background-color: #180A0A;
 }
